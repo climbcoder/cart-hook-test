@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# Bash script to delete files in a given directory that have name starting for "0aH"
+# To run the script on a specific directory type ./script.sh <directory-name> otherwise will run on the current directory
+
 # Tell to bash shell to split only by new line
 
 IFS=$'\n'

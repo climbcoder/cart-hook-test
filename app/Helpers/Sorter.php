@@ -22,11 +22,19 @@ namespace App\Helpers;
  */
 class Sorter
 {
+    /**
+     * @param array $numbers
+     * @return array
+     */
     public function smallSort(array $numbers): array
     {
         return $this->insertionSort($numbers);
     }
 
+    /**
+     * @param array $numbers
+     * @return array
+     */
     public function largeSort(array $numbers): array
     {
         $this->quickSort($numbers, 0, count($numbers) - 1);
@@ -53,6 +61,12 @@ class Sorter
         return $numbers;
     }
 
+    /**
+     * Sort with php native function
+     *
+     * @param array $numbers
+     * @return array
+     */
     public function nativeSort(array $numbers): array
     {
         sort($numbers, SORT_NUMERIC);
@@ -98,6 +112,13 @@ class Sorter
         $this->quickSort($numbers, $pivot + 1, $right);
     }
 
+    /**
+     * Swap two element in an array
+     *
+     * @param $array
+     * @param $a
+     * @param $b
+     */
     protected function swap(&$array, $a, $b)
     {
         if ($a !== $b) {

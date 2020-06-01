@@ -1,6 +1,7 @@
 <?php
 
 use Illuminate\Http\Request;
+use Illuminate\Routing\Router;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -14,6 +15,15 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::middleware('auth:api')->get('/user', function (Request $request) {
-    return $request->user();
-});
+Route::prefix('v1')
+    ->group(function () {
+        Route::resource('users', 'V1\UserController');
+        Route::get('users/{id}/posts', 'V1\PostController@userPosts');
+        Route::get('posts/{id}/comments', 'V1\CommentController@postComments');
+    });
+
+Route::prefix('v2')
+    ->group(function () {
+        Route::resource('users', 'V2\UserController');
+        Route::get('users/{id}/posts', 'V2\PostController@userPosts');
+    });

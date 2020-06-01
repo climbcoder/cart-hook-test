@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="42ca9a32-9009-457e-88e6-c87d56e8e418" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Helpers/Sorter.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Helpers/Sorter.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/User.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phpunit.xml" beforeDir="false" afterPath="$PROJECT_DIR$/phpunit.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/api.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/api.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.sh" beforeDir="false" afterPath="$PROJECT_DIR$/script.sh" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,45 +22,45 @@
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/Helpers/Sorter.php">
+        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/V1/CommentController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-180">
-              <caret line="26" column="30" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tests/Unit/SorterTest.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1116">
-              <caret line="62" column="27" selection-start-line="62" selection-start-column="27" selection-end-line="62" selection-end-column="27" />
+            <state relative-caret-position="234">
+              <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
               <folding>
-                <element signature="e#38#61#0#PHP" expanded="true" />
+                <element signature="e#43#82#0#PHP" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="144">
-                <caret line="8" column="28" lean-forward="true" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
-              </first_editor>
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/V1/PostController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="2" column="33" lean-forward="true" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="33" />
+              <folding>
+                <element signature="e#43#82#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/V1/UserController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-140">
+              <caret line="7" column="35" selection-start-line="7" selection-end-line="8" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/script.sh">
+        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/V2/PostController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="2" column="46" lean-forward="true" selection-start-line="2" selection-start-column="46" selection-end-line="2" selection-end-column="46" />
+            <state relative-caret-position="274">
+              <caret line="49" column="27" selection-start-line="49" selection-start-column="27" selection-end-line="49" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -70,8 +78,35 @@
         <option value="$PROJECT_DIR$/database/migrations/2020_05_28_042121_create_points_table.php" />
         <option value="$PROJECT_DIR$/database/migrations/2020_05_28_040909_create_games_table.php" />
         <option value="$PROJECT_DIR$/database/migrations/2020_05_28_040855_create_teams_table.php" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/script.sh" />
+        <option value="$PROJECT_DIR$/app/Helpers/Sorter.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/Controller.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/ApiController.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/V1/UserController.php" />
+        <option value="$PROJECT_DIR$/tests/ArraySubSet.php" />
+        <option value="$PROJECT_DIR$/tests/TestCase.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/V1/PostController.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/V1/CommentController.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2020_05_31_233035_create_comments_table.php" />
+        <option value="$PROJECT_DIR$/tests/Feature/V1/UsersTest.php" />
+        <option value="$PROJECT_DIR$/tests/Feature/V2/CommentsTest.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/V2/CommentController.php" />
+        <option value="$PROJECT_DIR$/app/Http/Resources/Users.php" />
+        <option value="$PROJECT_DIR$/phpunit.xml" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/V2/UserController.php" />
+        <option value="$PROJECT_DIR$/app/Comment.php" />
+        <option value="$PROJECT_DIR$/app/User.php" />
+        <option value="$PROJECT_DIR$/app/Http/Resources/Posts.php" />
+        <option value="$PROJECT_DIR$/tests/Feature/V1/PostsTest.php" />
+        <option value="$PROJECT_DIR$/tests/Feature/V1/CommentsTest.php" />
+        <option value="$PROJECT_DIR$/app/Post.php" />
+        <option value="$PROJECT_DIR$/tests/Feature/V2/UsersTest.php" />
+        <option value="$PROJECT_DIR$/routes/api.php" />
+        <option value="$PROJECT_DIR$/tests/Feature/V2/PostsTest.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2020_05_31_235001_add_external_id_to_users_table.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2020_05_31_233016_create_posts_table.php" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/V2/PostController.php" />
       </list>
     </option>
   </component>
@@ -173,10 +208,10 @@
     </include_path>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="661" />
-    <option name="y" value="139" />
-    <option name="width" value="726" />
-    <option name="height" value="789" />
+    <option name="x" value="993" />
+    <option name="y" value="25" />
+    <option name="width" value="927" />
+    <option name="height" value="1055" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -199,7 +234,61 @@
             <path>
               <item name="carthook" type="b2602c69:ProjectViewProjectNode" />
               <item name="carthook" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Console" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="carthook" type="b2602c69:ProjectViewProjectNode" />
+              <item name="carthook" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Helpers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="carthook" type="b2602c69:ProjectViewProjectNode" />
+              <item name="carthook" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Http" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="carthook" type="b2602c69:ProjectViewProjectNode" />
+              <item name="carthook" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Http" type="462c0819:PsiDirectoryNode" />
+              <item name="Controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="carthook" type="b2602c69:ProjectViewProjectNode" />
+              <item name="carthook" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Http" type="462c0819:PsiDirectoryNode" />
+              <item name="Controllers" type="462c0819:PsiDirectoryNode" />
+              <item name="V1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="carthook" type="b2602c69:ProjectViewProjectNode" />
+              <item name="carthook" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Http" type="462c0819:PsiDirectoryNode" />
+              <item name="Controllers" type="462c0819:PsiDirectoryNode" />
+              <item name="V2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="carthook" type="b2602c69:ProjectViewProjectNode" />
+              <item name="carthook" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Http" type="462c0819:PsiDirectoryNode" />
+              <item name="Resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="carthook" type="b2602c69:ProjectViewProjectNode" />
+              <item name="carthook" type="462c0819:PsiDirectoryNode" />
               <item name="database" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="carthook" type="b2602c69:ProjectViewProjectNode" />
+              <item name="carthook" type="462c0819:PsiDirectoryNode" />
+              <item name="database" type="462c0819:PsiDirectoryNode" />
+              <item name="migrations" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="carthook" type="b2602c69:ProjectViewProjectNode" />
@@ -221,7 +310,37 @@
             <path>
               <item name="carthook" type="b2602c69:ProjectViewProjectNode" />
               <item name="carthook" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="carthook" type="b2602c69:ProjectViewProjectNode" />
+              <item name="carthook" type="462c0819:PsiDirectoryNode" />
+              <item name="routes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="carthook" type="b2602c69:ProjectViewProjectNode" />
+              <item name="carthook" type="462c0819:PsiDirectoryNode" />
               <item name="tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="carthook" type="b2602c69:ProjectViewProjectNode" />
+              <item name="carthook" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+              <item name="Feature" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="carthook" type="b2602c69:ProjectViewProjectNode" />
+              <item name="carthook" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+              <item name="Feature" type="462c0819:PsiDirectoryNode" />
+              <item name="V1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="carthook" type="b2602c69:ProjectViewProjectNode" />
+              <item name="carthook" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+              <item name="Feature" type="462c0819:PsiDirectoryNode" />
+              <item name="V2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="carthook" type="b2602c69:ProjectViewProjectNode" />
@@ -240,14 +359,18 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="php.test.frameworks.configurable" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/Http/Controllers/V1" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/exampleScript" />
-      <recent name="$PROJECT_DIR$/exampleScript/folder2" />
-      <recent name="$PROJECT_DIR$/tests/Unit" />
-      <recent name="$PROJECT_DIR$/app/Helpers" />
+      <recent name="$PROJECT_DIR$/app/Http/Controllers/V2" />
+      <recent name="$PROJECT_DIR$/tests/Feature" />
+      <recent name="$PROJECT_DIR$/tests/Feature/V1" />
+      <recent name="$PROJECT_DIR$/app/Http/Controllers/V1" />
+      <recent name="$PROJECT_DIR$/app/Http/Controllers" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -262,13 +385,25 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="PHPUnit.SorterTest.measureSmallSorts">
-    <configuration name="SorterTest" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
-      <TestRunner class="Tests\Unit\Helpers\SorterTest" file="$PROJECT_DIR$/tests/Unit/SorterTest.php" scope="Class" />
+  <component name="RunManager" selected="PHPUnit.Feature">
+    <configuration name="Feature" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner directory="$PROJECT_DIR$/tests/Feature" />
       <method v="2" />
     </configuration>
-    <configuration name="SorterTest.measureSmallSorts" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
-      <TestRunner class="Tests\Unit\Helpers\SorterTest" file="$PROJECT_DIR$/tests/Unit/SorterTest.php" method="measureSmallSorts" scope="Method" />
+    <configuration name="PostsTest.testUserPostsEndpointReturnListOfPosts" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="Tests\Feature\V1\PostsTest" file="$PROJECT_DIR$/tests/Feature/V1/PostsTest.php" method="testUserPostsEndpointReturnListOfPosts" scope="Method" />
+      <method v="2" />
+    </configuration>
+    <configuration name="PostsTest.testUserPostsEndpointReturnListOfPostsFilteredByTitle" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="Tests\Feature\V2\PostsTest" file="$PROJECT_DIR$/tests/Feature/V2/PostsTest.php" method="testUserPostsEndpointReturnListOfPostsFilteredByTitle" scope="Method" />
+      <method v="2" />
+    </configuration>
+    <configuration name="PostsTest.testUsersEndpointReturnListOfUsers" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="Tests\Feature\V2\PostsTest" file="$PROJECT_DIR$/tests/Feature/V2/PostsTest.php" method="testUsersEndpointReturnListOfUsers" scope="Method" />
+      <method v="2" />
+    </configuration>
+    <configuration name="V2" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner directory="$PROJECT_DIR$/tests/Feature/V2" />
       <method v="2" />
     </configuration>
     <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -277,8 +412,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="PHPUnit.SorterTest.measureSmallSorts" />
-        <item itemvalue="PHPUnit.SorterTest" />
+        <item itemvalue="PHPUnit.Feature" />
+        <item itemvalue="PHPUnit.PostsTest.testUserPostsEndpointReturnListOfPostsFilteredByTitle" />
+        <item itemvalue="PHPUnit.V2" />
+        <item itemvalue="PHPUnit.PostsTest.testUsersEndpointReturnListOfUsers" />
+        <item itemvalue="PHPUnit.PostsTest.testUserPostsEndpointReturnListOfPosts" />
       </list>
     </recent_temporary>
   </component>
@@ -296,32 +434,57 @@
       <workItem from="1590678352780" duration="7000" />
       <workItem from="1590794036803" duration="1200000" />
       <workItem from="1590849694394" duration="122000" />
-      <workItem from="1590952805020" duration="3967000" />
+      <workItem from="1590952805020" duration="13167000" />
+      <workItem from="1590969574492" duration="6836000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SorterTest - 2020.05.31 at 15h 10m 25s.xml">
-      <configuration name="SorterTest" configurationId="PHPUnitRunConfigurationType" />
+    <history-entry file="PostsTest_testUserPostsEndpointReturnListOfPostsFilteredByTitle - 2020.05.31 at 20h 14m 01s.xml">
+      <configuration name="PostsTest.testUserPostsEndpointReturnListOfPostsFilteredByTitle" configurationId="PHPUnitRunConfigurationType" />
     </history-entry>
-    <history-entry file="SorterTest_measureSmallSorts - 2020.05.31 at 15h 13m 37s.xml">
-      <configuration name="SorterTest.measureSmallSorts" configurationId="PHPUnitRunConfigurationType" />
+    <history-entry file="PostsTest_testUserPostsEndpointReturnListOfPostsFilteredByTitle - 2020.05.31 at 20h 15m 04s.xml">
+      <configuration name="PostsTest.testUserPostsEndpointReturnListOfPostsFilteredByTitle" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="PostsTest_testUserPostsEndpointReturnListOfPostsFilteredByTitle - 2020.05.31 at 20h 15m 19s.xml">
+      <configuration name="PostsTest.testUserPostsEndpointReturnListOfPostsFilteredByTitle" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="PostsTest_testUserPostsEndpointReturnListOfPostsFilteredByTitle - 2020.05.31 at 20h 18m 17s.xml">
+      <configuration name="PostsTest.testUserPostsEndpointReturnListOfPostsFilteredByTitle" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="PostsTest_testUserPostsEndpointReturnListOfPostsFilteredByTitle - 2020.05.31 at 20h 18m 52s.xml">
+      <configuration name="PostsTest.testUserPostsEndpointReturnListOfPostsFilteredByTitle" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Feature - 2020.05.31 at 20h 21m 39s.xml">
+      <configuration name="Feature" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Feature - 2020.05.31 at 20h 22m 43s.xml">
+      <configuration name="Feature" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Feature - 2020.05.31 at 20h 27m 01s.xml">
+      <configuration name="Feature" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Feature - 2020.05.31 at 20h 37m 23s.xml">
+      <configuration name="Feature" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Feature - 2020.05.31 at 20h 45m 58s.xml">
+      <configuration name="Feature" configurationId="PHPUnitRunConfigurationType" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9083000" />
+    <option name="totallyTimeSpent" value="25119000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26009962" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26286662" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.082073435" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.35313174" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -379,43 +542,235 @@
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Helpers/Sorter.php">
+    <entry file="file://$PROJECT_DIR$/exampleScript/0aH.txt" />
+    <entry file="file://$PROJECT_DIR$/exampleScript/folder 1/0aH.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script.sh">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-180">
-          <caret line="26" column="30" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
+        <state relative-caret-position="54">
+          <caret line="3" column="121" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="121" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/exampleScript/0aH.txt">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/app/Helpers/Sorter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="33" column="7" selection-start-line="33" selection-start-column="7" selection-end-line="33" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/ApiController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="11" column="62" selection-start-line="11" selection-start-column="62" selection-end-line="11" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/ArraySubSet.php" />
+    <entry file="file://$PROJECT_DIR$/tests/TestCase.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tests/Unit/SorterTest.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1116">
-          <caret line="62" column="27" selection-start-line="62" selection-start-column="27" selection-end-line="62" selection-end-column="27" />
+          <caret line="62" column="28" selection-start-line="62" selection-start-column="28" selection-end-line="62" selection-end-column="28" />
           <folding>
             <element signature="e#38#61#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/V2/CommentController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phpunit.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/Feature/ExampleTest.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/V2/UserController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="36" column="19" lean-forward="true" selection-start-line="28" selection-start-column="16" selection-end-line="36" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Comment.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="6" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Resources/Users.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="5" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="21" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="20" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/Feature/V1/PostsTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Post.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="48" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Resources/Posts.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" column="39" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/Feature/V1/UsersTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/Feature/V2/CommentsTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="27" lean-forward="true" selection-start-line="2" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2020_05_31_233035_create_comments_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="10" column="6" lean-forward="true" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/Feature/V2/PostsTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="26" column="37" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="37" />
+          <folding>
+            <element signature="e#36#49#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/Feature/V2/UsersTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+          <folding>
+            <element signature="e#36#49#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2020_05_31_235001_add_external_id_to_users_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="18" column="39" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2020_05_31_233016_create_posts_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="22" column="33" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="144">
-            <caret line="8" column="28" lean-forward="true" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+          <first_editor relative-caret-position="846">
+            <caret line="47" column="50" selection-start-line="47" selection-start-column="50" selection-end-line="47" selection-end-column="50" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/exampleScript/folder 1/0aH.txt">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/routes/api.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/script.sh">
+    <entry file="file://$PROJECT_DIR$/tests/Feature/V1/CommentsTest.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
-          <caret line="2" column="46" lean-forward="true" selection-start-line="2" selection-start-column="46" selection-end-line="2" selection-end-column="46" />
+          <caret line="2" column="26" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/V1/CommentController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+          <folding>
+            <element signature="e#43#82#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/V1/PostController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="33" lean-forward="true" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="33" />
+          <folding>
+            <element signature="e#43#82#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/V1/UserController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-140">
+          <caret line="7" column="35" selection-start-line="7" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/V2/PostController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="49" column="27" selection-start-line="49" selection-start-column="27" selection-end-line="49" selection-end-column="27" />
         </state>
       </provider>
     </entry>
